@@ -1,5 +1,7 @@
 #include <cassert>
 #include <cstdint>
+#include <cstring>
+#include <cstdlib>
 #include <map>
 
 #include "duel.hpp"
